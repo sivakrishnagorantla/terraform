@@ -6,7 +6,7 @@ terraform {
     }
   }
 }
-
+#my first ec2 instance
 # Configure the AWS instance
 provider "aws" {
   region = "us-east-1"
